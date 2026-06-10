@@ -6,14 +6,6 @@ HeritageHop is a mobile travel companion designed to help tourists discover Indi
 
 ---
 
-## 📱 Screenshots
-
-| Splash | Login | Home | City Explorer |
-|--------|-------|------|---------------|
-| *(Add screenshot)* | *(Add screenshot)* | *(Add screenshot)* | *(Add screenshot)* |
-
----
-
 ## ✨ Features
 
 - **Explore Cities** — Curated heritage places, attractions, food spots, and hotels across Indian cities
