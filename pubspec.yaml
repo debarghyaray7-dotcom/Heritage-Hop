@@ -1,0 +1,59 @@
+name: heritagehop
+description: AI-powered smart tourism and heritage assistant app
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.2.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  # State Management
+  flutter_riverpod: ^2.4.9
+
+  # Navigation
+  go_router: ^13.2.0
+
+  # HTTP & API
+  http: ^1.2.0
+
+  # UI Components
+  cached_network_image: ^3.3.1
+  shimmer: ^3.0.0
+
+  # Storage
+  shared_preferences: ^2.2.2
+
+  # Utils
+  intl: ^0.19.0
+  flutter_dotenv: ^5.1.0
+
+  # Icons
+  cupertino_icons: ^1.0.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - .env
+    - assets/images/victoria_memorial.jpg
+    - assets/images/howrah_bridge.jpg
+    - assets/images/college_street.jpg
+    - assets/images/sundarbans.jpg
+    - assets/images/dakshineswar.jpg
+    - assets/images/indian_museum.jpg
+    - assets/images/kalighat.png
+    - assets/images/eco_park.jpg
+    - assets/images/science_city.jpg
+    - assets/images/new_market.jpg
+    - assets/images/kolkata.jpg
+    - assets/images/jaipur.jpg
+    - assets/images/delhi.jpg
+    - assets/images/vanarasi.jpg
+    - assets/images/logo.JPG
